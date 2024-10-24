@@ -8,7 +8,7 @@
 ## 課程作業
 
 ### HW1: 個人網站
-- [網頁網址](file:///D:/%E5%B8%AB%E5%A4%A7/113%E5%AD%B8%E5%B9%B4%E4%B8%8A/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96/%E5%80%8B%E4%BA%BA%E7%B6%B2%E9%A0%81%E4%BD%9C%E6%A5%AD_2/index.html)
+- [網頁網址](https://aleck581.github.io/Web/)
 
 ### HW2: React互動網頁（日記軟體）
 - **介紹影片**: [](#)
