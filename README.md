@@ -11,7 +11,7 @@
 - [網頁網址](https://aleck581.github.io/Web/)
 
 ### HW2: React互動網頁（日記軟體）
-- **介紹影片**: [](#)
+- **介紹影片**: [https://youtu.be/ZskuFFNsnpc](#)
 - **網頁網址**: [](#)
 
 ### HW3
